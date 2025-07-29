@@ -53,7 +53,10 @@ Kamlesh Choudhary
 B.Tech, Electronics & Communication Engineering
 Malaviya National Institute of Technology, Jaipur
 
-Here is web page link of chatBot: file:///C:/Users/kamlesh/cardcreator/Gemini/index.html
+## 🌐 Local Project Link (for Personal Use)
+
+Here is the local web page link of the chatbot:  
+[Open Chatbot UI](file:///C:/Users/kamlesh/cardcreator/Gemini/index.html)
 
 
 
